@@ -1,1 +1,1 @@
-{"chatMessage0":{"user":"WDGWV","message":"Hello welcome","status":"admin","latitude":"lat","longitude":"lon"},"chatMessage1":{"user":"Carloooooo","message":"Hello welcome","status":"admin","latitude":"lat","longitude":"lon"}}
+[{"id":0,"chatMessage":{"user":"WDGWV","message":"Hello welcome","status":"admin","latitude":"lat","longitude":"lon"}},{"id":1,"chatMessage":{"user":"Carloooooo","message":"Hello welcome","status":"admin","latitude":"lat","longitude":"lon"}}]

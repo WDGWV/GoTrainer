@@ -3,7 +3,7 @@
 $chat = array(
         // user    // text          // rank // lat  // lon
 	array(
-		'id' => 0
+		'id' => 0,
         'chatMessage' => array(
         	'user' => "WDGWV",
         	'message' => "Hello welcome",
@@ -13,7 +13,7 @@ $chat = array(
         )
     ),
 	array(
-		'id' => 1
+		'id' => 1,
         'chatMessage' => array(
         	'user' => "Carloooooo",
         	'message' => "Hello welcome",
