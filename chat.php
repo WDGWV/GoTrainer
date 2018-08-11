@@ -8,7 +8,7 @@ $chat = array(
         	'status' => "admin",
         	'latitude' => "lat",
         	'longitude' => "lon"
-        )
+        ),
         array(
         	'user' => "Carloooooo",
         	'message' => "Hello welcome",
