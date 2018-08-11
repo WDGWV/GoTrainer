@@ -1,0 +1,10 @@
+for i in *.php
+do
+	php "$i"
+done
+
+echo "All files generated."
+git add -A .
+git commit -m "Auto-Update"
+echo "When done, type: git push"
+echo "When faulty, type: git pull"
