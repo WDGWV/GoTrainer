@@ -2,25 +2,19 @@
 
 $chat = array(
         // user    // text          // rank // lat  // lon
-	array(
-		'id' => 0,
-        'chatMessage' => array(
+        array(
         	'user' => "WDGWV",
         	'message' => "Hello welcome",
         	'status' => "admin",
         	'latitude' => "lat",
         	'longitude' => "lon"
         )
-    ),
-	array(
-		'id' => 1,
-        'chatMessage' => array(
+        array(
         	'user' => "Carloooooo",
         	'message' => "Hello welcome",
         	'status' => "admin",
         	'latitude' => "lat",
         	'longitude' => "lon"
-        )
         ),
         // 'id1' => array("Carloooooo", "Hello welcome", "admin", "lat", "lon"),
         // 'id2' => array("WDGWV", "Hey Carloooooo", "admin", "lat", "lon"),
