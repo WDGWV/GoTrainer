@@ -16,7 +16,13 @@ $chat = array(
         	'latitude' => 52.359734,
         	'longitude' => 4.664674
         ),
-
+        array(
+                'user' => "MalformedUser",
+                'message' => "Hello welcome",
+                'status' => "KIP",
+                'latitude' => "EW",
+                'longitude' => "WE"
+        ),
         // 'id3' => array("GUESTY", "Hey Trainers", "guest", "lat", "lon"),
         // 'id4' => array("MODER", "Hey Trainers", "moderator", "lat", "lon"),
         // 'id5' => array("VIP", "Hey Trainers", "vip", "lat", "lon"),
