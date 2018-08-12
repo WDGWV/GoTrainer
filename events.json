@@ -1,1 +1,1 @@
-[["Evee","blah","11-08-2018","11:00","13:00","imageURL"],["Evee","blah","12-08-2018","11:00","13:00","imageURL"],["Niantic did something.","Description","12-12-2018","12:00","12:00","imageURL"]]
+[{"title":"Evee Community day 1","message":"blah","begin":1534073441,"end":1534073441,"image":"imageURL"},{"title":"Evee Community day 2","message":"blah","begin":1534077041,"end":1534077041,"image":"imageURL"},{"title":"Niantic did something","message":"blah","begin":1534077041,"end":1534077041,"image":"imageURL"}]
