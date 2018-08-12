@@ -2,14 +2,14 @@
 
 $news = array(
 	array(
-		'title' => "Evee",
+		'title' => "Evee Community day 1",
 		'message' => "blah",
 		'begin' => mktime("11-08-2018 11:00"),
 		'end' => mktime("11-08-2018 14:00"),
 		'image' => "imageURL"
 	),
     array(
-		'title' => "Evee",
+		'title' => "Evee Community day 2",
 		'message' => "blah",
 		'begin' => mktime("12-08-2018 11:00"),
 		'end' => mktime("12-08-2018 14:00"),
