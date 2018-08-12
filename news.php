@@ -1,9 +1,27 @@
 <?php
 
 $news = array(
-	array("Evee", "blah", "11-08-2018", "11:00", "13:00", "imageURL"),
-    array("Evee", "blah", "12-08-2018", "11:00", "13:00", "imageURL"),
-    array("Niantic did something.", "Description", "12-12-2018", "12:00", "12:00", "imageURL")
+	array(
+		'name' => "Evee",
+		'message' => "blah",
+		'begin' => mktime("11-08-2018 11:00"),
+		'end' => mktime("11-08-2018 14:00"),
+		'image' => "imageURL"
+	),
+    array(
+		'name' => "Evee",
+		'message' => "blah",
+		'begin' => mktime("12-08-2018 11:00"),
+		'end' => mktime("12-08-2018 14:00"),
+		'image' => "imageURL"
+    ),
+    array(
+		'name' => "Niantic did something",
+		'message' => "blah",
+		'begin' => mktime("12-12-2018 11:00"),
+		'end' => mktime("12-12-2018 14:00"),
+		'image' => "imageURL"
+    )
 );
 
 file_put_contents('news.json', json_encode($news));
