@@ -13,11 +13,10 @@ $chat = array(
         	'user' => "Carloooooo",
         	'message' => "Hello welcome",
         	'status' => "admin",
-        	'latitude' => "lat",
-        	'longitude' => "lon"
+        	'latitude' => 52.359734,
+        	'longitude' => 4.664674
         ),
-        // 'id1' => array("Carloooooo", "Hello welcome", "admin", "lat", "lon"),
-        // 'id2' => array("WDGWV", "Hey Carloooooo", "admin", "lat", "lon"),
+
         // 'id3' => array("GUESTY", "Hey Trainers", "guest", "lat", "lon"),
         // 'id4' => array("MODER", "Hey Trainers", "moderator", "lat", "lon"),
         // 'id5' => array("VIP", "Hey Trainers", "vip", "lat", "lon"),
