@@ -2,21 +2,21 @@
 
 $news = array(
 	array(
-		'name' => "Evee",
+		'title' => "Evee",
 		'message' => "blah",
 		'begin' => mktime("11-08-2018 11:00"),
 		'end' => mktime("11-08-2018 14:00"),
 		'image' => "imageURL"
 	),
     array(
-		'name' => "Evee",
+		'title' => "Evee",
 		'message' => "blah",
 		'begin' => mktime("12-08-2018 11:00"),
 		'end' => mktime("12-08-2018 14:00"),
 		'image' => "imageURL"
     ),
     array(
-		'name' => "Niantic did something",
+		'title' => "Niantic did something",
 		'message' => "blah",
 		'begin' => mktime("12-12-2018 11:00"),
 		'end' => mktime("12-12-2018 14:00"),
