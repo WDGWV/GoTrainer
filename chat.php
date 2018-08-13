@@ -51,8 +51,8 @@ $chat = array(
                 'user' => "WDGWV",
                 'message' => "Alleen lokale mensen kunnen dit zien :D",
                 'status' => "admin",
-                'privacy' => 'global',
-                'team' => 'local',
+                'privacy' => 'local',
+                'team' => 'instinct',
                 'latitude' => 52.359734,
                 'longitude' => 4.664674
         ),
