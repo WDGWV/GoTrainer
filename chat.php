@@ -6,6 +6,7 @@ $chat = array(
         	'user' => "WDGWV",
         	'message' => "Hello welcome",
         	'status' => "admin",
+                'team' => 'instinct',
         	'latitude' => 0.0,
         	'longitude' => 0.0
         ),
@@ -13,20 +14,26 @@ $chat = array(
         	'user' => "Carloooooo",
         	'message' => "Hello welcome",
         	'status' => "admin",
+                'team' => 'instinct',
         	'latitude' => 52.359734,
         	'longitude' => 4.664674
         ),
         array(
                 'user' => "MalformedUser",
                 'message' => "Hello welcome",
+                'team' => 'valor',
                 'status' => "KIP",
                 'latitude' => "EW",
                 'longitude' => "WE"
         ),
-        // 'id3' => array("GUESTY", "Hey Trainers", "guest", "lat", "lon"),
-        // 'id4' => array("MODER", "Hey Trainers", "moderator", "lat", "lon"),
-        // 'id5' => array("VIP", "Hey Trainers", "vip", "lat", "lon"),
-        // 'id6' => array("GUESTY", "Hey Trainers", "guest", "lat", "lon"),
+        array(
+                'user' => "MalformedUser1",
+                'message' => "Hello welcome",
+                'team' => 'mystic',
+                'status' => "KIP",
+                'latitude' => "EW",
+                'longitude' => "WE"
+        ),
 );
 
 file_put_contents('chat.json', json_encode($chat));
